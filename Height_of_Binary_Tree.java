@@ -27,3 +27,11 @@ public class Height_of_Binary_Tree {
 	}
 
 }
+class Node{
+	int data;
+	Node left;
+	Node right;
+	public Node(int d) {
+		this.data = d;
+	}
+}
